@@ -1,21 +1,21 @@
-<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" contentStyleType="text/css" data-diagram-type="DESCRIPTION" height="186px" preserveAspectRatio="none" style="width:537px;height:186px;background:#FFFFFF;" version="1.1" viewBox="0 0 537 186" width="537px" zoomAndPan="magnify">
-  <ns0:title>CodeUnits of PaperServer</ns0:title>
-  <ns0:defs />
-  <ns0:g>
-    <ns0:g class="title" data-source-line="1">
-      <ns0:text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="173.4961" x="175.0571" y="24.5332">CodeUnits of PaperServer</ns0:text>
-    </ns0:g>
-    <ns0:g class="entity" data-entity="PaperServer" data-source-line="3" data-uid="ent0002" id="entity_PaperServer">
-      <ns0:rect fill="#F1F1F1" height="47.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="118.5928" x="209" y="45.6094" />
-      <ns0:rect fill="#F1F1F1" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="307.5928" y="50.6094" />
-      <ns0:rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="305.5928" y="52.6094" />
-      <ns0:rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="305.5928" y="56.6094" />
-      <ns0:text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78.5928" x="224" y="80.1426">PaperServer</ns0:text>
-    </ns0:g>
-    <ns0:g class="entity" data-entity="PaperServerNote" data-source-line="5" data-uid="ent0003" id="entity_PaperServerNote">
-      <ns0:path d="M6,153.6094 L6,179.9609 A0,0 0 0 0 6,179.9609 L530.6104,179.9609 A0,0 0 0 0 530.6104,179.9609 L530.6104,163.6094 L520.6104,153.6094 L272.5,153.6094 L268.5,94.0894 L264.5,153.6094 L6,153.6094 A0,0 0 0 0 6,153.6094" fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;" />
-      <ns0:path d="M520.6104,153.6094 L520.6104,163.6094 L530.6104,163.6094 L520.6104,153.6094" fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;" />
-      <ns0:text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="503.6104" x="12" y="172.1045">PaperServer is a docker-image for simply running a Paper-server in a docker-container.</ns0:text>
-    </ns0:g>
-  </ns0:g>
-</ns0:svg>
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" contentStyleType="text/css" data-diagram-type="DESCRIPTION" height="190px" preserveAspectRatio="none" style="width:611px;height:190px;background:#FFFFFF;" version="1.1" viewBox="0 0 611 190" width="611px" zoomAndPan="magnify">
+  <defs />
+  <g>
+    <g class="title" data-source-line="2">
+      <text fill="#000000" font-family="'DejaVu Sans'" font-size="14" font-weight="700" lengthAdjust="spacing" textLength="204.1621" x="200.2002" y="22.9951">CodeUnits of PaperServer</text>
+    </g>
+    <g class="entity" data-qualified-name="PaperServer" data-source-line="4" id="ent0001">
+      <rect fill="#F1F1F1" height="46.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="126.1875" x="238.5" y="44.2969" />
+      <rect fill="#F1F1F1" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="344.6875" y="49.2969" />
+      <rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="342.6875" y="51.2969" />
+      <rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="342.6875" y="55.2969" />
+      <text fill="#000000" font-family="'DejaVu Sans'" font-size="14" lengthAdjust="spacing" textLength="86.1875" x="253.5" y="77.292">PaperServer</text>
+    </g>
+    <g class="entity" data-qualified-name="PaperServerNote" data-source-line="6" id="ent0002">
+      <path d="M6,150.2969 L6,175.4297 A0,0 0 0 0 6,175.4297 L596.5625,175.4297 A0,0 0 0 0 596.5625,175.4297 L596.5625,160.2969 L586.5625,150.2969 L305.5,150.2969 L301.5,90.4569 L297.5,150.2969 L6,150.2969 A0,0 0 0 0 6,150.2969" fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;" />
+      <path d="M586.5625,150.2969 L586.5625,160.2969 L596.5625,160.2969 L586.5625,150.2969" fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;" />
+      <text fill="#000000" font-family="'DejaVu Sans'" font-size="13" lengthAdjust="spacing" textLength="569.5625" x="12" y="167.3638">PaperServer is a docker-image for simply running a Paper-server in a docker-container.</text>
+    </g>
+  </g>
+</svg>
