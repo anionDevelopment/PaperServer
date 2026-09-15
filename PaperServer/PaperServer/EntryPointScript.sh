@@ -7,6 +7,10 @@ if [ ! -f /Workspace/Configuration/.gitignore ]; then
     echo "versions" >> /Workspace/Configuration/.gitignore
 fi
 
+if [ "$accept_minecraft_eula" = "true" ]; then
+    echo "eula=true" > /Workspace/Configuration/eula.txt
+fi
+
 if [ -z "$java_xms" ]; then
     java_xms="512m"
 fi

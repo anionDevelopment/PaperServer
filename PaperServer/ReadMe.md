@@ -24,10 +24,11 @@ There are 3 volumes-paths:
 
 The following environment-variables are available:
 
+- `accept_minecraft_eula`
 - `java_xms`
 - `java_xmx`
 
-None of these environment-variables are required.
+`accept_minecraft_eula` must be set to `true`, otherwise the Paper-server refuses to start. Setting it to `true` means that you accept the [Minecraft-EULA](https://www.minecraft.net/eula). Technically this writes `eula=true` to `eula.txt` in the configuration-folder on every start of the container. `java_xms` and `java_xmx` are not required.
 
 ### Example
 

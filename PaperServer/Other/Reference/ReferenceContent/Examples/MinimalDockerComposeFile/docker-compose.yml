@@ -11,5 +11,6 @@ services:
       - "./Volumes/Data:/Workspace/Data"
       - "./Volumes/Logs:/Workspace/Logs"
     environment:
+      - accept_minecraft_eula=true
       - java_xms=2G
       - java_xmx=4G
