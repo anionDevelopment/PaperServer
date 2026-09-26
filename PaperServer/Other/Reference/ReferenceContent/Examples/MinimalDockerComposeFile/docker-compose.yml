@@ -2,7 +2,7 @@ version: '3.2'
 
 services:
   paperserver:
-    image: paperserver:1.0.0
+    image: paperserver:1.0.1
     container_name: 'paperserver'
     ports:
       - 25565:25565
@@ -11,5 +11,6 @@ services:
       - "./Volumes/Data:/Workspace/Data"
       - "./Volumes/Logs:/Workspace/Logs"
     environment:
+      - accept_minecraft_eula=true
       - java_xms=2G
       - java_xmx=4G

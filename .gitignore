@@ -1,2 +1,8 @@
 geckodriver.log
 Other/Resources/PlantUML/plantuml.jar
+
+Other/Resources/Artifacts
+CLAUDE.local.md
+.claude/settings.local.json
+.claude/*.lock
+Other/Logs
