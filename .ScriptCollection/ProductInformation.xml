@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <productinformation xmlns="https://projects.aniondev.de/PublicProjects/Common/ProjectTemplates/-/tree/main/Conventions/RepositoryStructure/CommonProjectStructure">
   <producttitle>PaperServer</producttitle>
-  <remoteaddress>https://github.com/anionDev/PaperServer</remoteaddress>
+  <remoteaddress>https://github.com/anionDevelopment/PaperServer</remoteaddress>
   <requiredenvironmentvariables />
 </productinformation>
