@@ -2,7 +2,7 @@ version: '3.2'
 
 services:
   paperserver:
-    image: paperserver:1.0.1
+    image: paperserver:1.0.3
     container_name: 'paperserver'
     ports:
       - 25565:25565
